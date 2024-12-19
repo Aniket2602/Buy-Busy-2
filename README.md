@@ -6,15 +6,9 @@ This project is a full-stack e-commerce application built with React, Redux, Fir
 
 - [Project Overview](#project-overview)
 - [Features](#features)
-  - [Authentication](#authentication)
-  - [Product Management](#product-management)
-  - [Real-time Data](#real-time-data)
-  - [User Interaction](#user-interaction)
 - [Screenshots](#screenshots)
 - [State Management with Redux](#state-management-with-redux)
 - [Firebase Integration](#firebase-integration)
-  - [Firebase Services Used](#firebase-services-used)
-  - [Firebase Setup](#firebase-setup)
 - [Technologies Used](#technologies-used)
 - [How to Install and Run the Project](#how-to-install-and-run-the-project)
 - [Demo](#demo)
@@ -60,43 +54,24 @@ The project uses React for building the user interface, Redux Toolkit for state 
 
 ## Screenshots
 
-<hr>
-<h3 style="text-align: center">Home page</h3>
-<hr>
-
+### Home page
+Before Sign In
 ![Home Page Screenshot](https://github.com/Aniket2602/Buy-Busy-2/blob/master/screenshots/Home%20Page%201.png?raw=true)
 
+After Sign In
 ![Home Page Screenshot](https://github.com/Aniket2602/Buy-Busy-2/blob/master/screenshots/Home%20Page%202.png?raw=true)
 
-<br>
-
-<hr>
-<h3 style="text-align: center">Sign-Up Page</h3>
-<hr>
-
+### Sign-Up Page
 ![SignUp Page Screenshot](https://github.com/Aniket2602/Buy-Busy-2/blob/master/screenshots/SignUp%20Page.png?raw=true)
 
-<br>
-
-<hr>
-<h3 style="text-align: center">Sign-In Page</h3>
-<hr>
-
+### Sign-In Page
 ![SignIn Page Screenshot](https://github.com/Aniket2602/Buy-Busy-2/blob/master/screenshots/SignIn%20Page.png?raw=true)
 
-<br>
-
-<hr>
-<h3 style="text-align: center">Cart Page</h3>
-<hr>
+### Cart Page
 
 ![Cart Page Screenshot](https://github.com/Aniket2602/Buy-Busy-2/blob/master/screenshots/Cart%20Page.png?raw=true)
 
-<br>
-
-<hr>
-<h3 style="text-align: center">Order Page</h3>
-<hr>
+### Order Page
 
 ![Order Page Screenshot](https://github.com/Aniket2602/Buy-Busy-2/blob/master/screenshots/Order%20Page.png?raw=true)
 

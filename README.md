@@ -104,7 +104,7 @@ The project uses React for building the user interface, Redux Toolkit for state 
 
 ## State Management with Redux
 
-The app uses **Redux Toolkit** to manage the application state. The key slices are: **Product Slice**, **Cart Slice**, **Order Slice**  and **Authentication Slice**.
+The app uses **Redux Toolkit** to manage the application state. The key slices are: **Product Slice**, **Cart Slice**, **Order Slice** and **Authentication Slice**.
 
 ## Firebase Integration
 
@@ -147,10 +147,6 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes. You may also see any lint errors in the console.
-
-## Demo
-
-> Checkout the [Website](https://aniket2602.github.io/Superhero-Hunter/)
 
 ## Author
 

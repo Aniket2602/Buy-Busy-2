@@ -1,0 +1,85 @@
+/* ------------------|Common Styling to Sign In and Sign Out|------------------ */
+/* ---------------------------------------------------------------------------- */
+
+.sign-wrapper {
+  height: 100vh;
+  padding-top: 9rem;
+  background-color: rgb(244, 246, 248);
+  font-family: "Nunito Sans", sans-serif;
+}
+
+.sign-container {
+  width: 25rem;
+  margin: 2rem auto;
+  padding: 1rem 1.5rem;
+  border-radius: 0.5rem;
+  background-color: rgb(255, 255, 255);
+  border: 2px solid rgb(163, 162, 162);
+  box-shadow: 0px 4px 12px rgb(162, 157, 157);
+}
+
+.signup-container {
+  margin-top: 0.5rem;
+}
+
+.sign-header-container {
+  margin-bottom: 1rem;
+  font-size: 2.2rem;
+  margin-bottom: 2rem;
+  font-family: "Cherry Cream Soda", system-ui;
+}
+
+.sign-form-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.sign-form-container input,
+.sign-form-container button {
+  width: 90%;
+  margin: auto;
+  margin-bottom: 1.5rem;
+  padding: 0.8rem 1.5rem;
+  border-radius: 10px;
+  font-size: 1.1rem;
+  font-family: "Nunito Sans", sans-serif;
+  border: 2px solid #d2d1d1;
+}
+
+.sign-form-container button {
+  padding: 0.5rem 1.5rem;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+}
+
+.sign-form-container button:hover {
+  background-color: #b4b3b3;
+  font-weight: 700;
+}
+
+.sign-footer-container {
+  width: 100%;
+  margin: 1rem 0rem;
+}
+
+.sign-footer-container span {
+  margin-left: 1rem;
+}
+
+.sign-box {
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  background-color: rgb(249, 201, 90);
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+}
+
+.sign-box a {
+  all: unset;
+}
+
+.sign-box:hover {
+  padding: 0.5rem 0.9rem;
+  font-weight: 700;
+  background-color: rgb(245, 176, 15);
+}

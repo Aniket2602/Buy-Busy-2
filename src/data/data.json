@@ -1,0 +1,217 @@
+[
+  {
+    "id": "1",
+    "name": "Men′s Shirt Business Casual",
+    "price": 750,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVb59Uo6W12_URGq1ismX3WpEXIBXbdPPXAA&s",
+    "category": "Men's Clothing"
+  },
+
+  {
+    "id": "2",
+    "name": "Snowboard Jacket",
+    "price": 2599,
+    "imageUrl": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+    "category": "Women's Clothing"
+  },
+
+  {
+    "id": "3",
+    "name": "White Classic Necklace",
+    "price": 29890,
+    "imageUrl": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSEvSJ_J3aX41DfhCmtof9pKBoO5xL0Eg1PBFQy5TVoCi6ddMNVTp1XPgbD4LByjWH1We2mdihaV3e1U601FDBW3DVV42bp&usqp=CAY",
+    "category": "Jewelery"
+  },
+
+  {
+    "id": "4",
+    "name": "Plain Black T-Shirt",
+    "price": 105,
+    "imageUrl": "https://5.imimg.com/data5/WQ/GB/KS/SELLER-30607000/plain-black-t-shirts-500x500.jpg",
+    "category": "Men's Clothing"
+  },
+
+  {
+    "id": "5",
+    "name": "4TB Gaming Drive",
+    "price": 250,
+    "imageUrl": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+    "category": "Electronics"
+  },
+
+  {
+    "id": "6",
+    "name": "Traditional Wear for Men",
+    "price": 10500,
+    "imageUrl": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRbDyqiuDE6hGBEAtgI8o9wv6ISbFgOI9AJsOz57oVTAr0Jpy5ctCd6yABEfdyslszokaYSsx2XDL6i_5Ul0GXoQoHyXWxNMDB0Y8ULTh3R7635UhdHLv-z&usqp=CAE",
+    "category": "Men's Clothing"
+  },
+
+  {
+    "id": "7",
+    "name": "Shoulder bag",
+    "price": 2299,
+    "imageUrl": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQcoAD6FY42bnBbfljYuX3SAEvkGus0aVNnRX4IBMeHX5rM5NL5C0cJG-GmzEh-1ze-fzWAya84IqddKvzl8Y4N1WfcOOfF6Wh_3TdyDUqCUAd7CwrlRwV1pbk&usqp=CAE",
+    "category": "Men's Clothing"
+  },
+
+  {
+    "id": "8",
+    "name": "Womens T Shirt Casual",
+    "price": 999,
+    "imageUrl": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+    "category": "Women's Clothing"
+  },
+
+  {
+    "id": "9",
+    "name": "Princess Bridal Ring",
+    "price": 24000,
+    "imageUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQDqnJ02L9Iq_sSrPaJ5NTnvQDUDf2WSk3wjCRPBJ4Q-625mptsRCNtkOfd7mEVXfKPg8GgZmO2VOyhI9tEralAJbsNppnc_wYxgbfKYvNQLii7Z3Rxu7Zy_w&usqp=CAE",
+    "category": "Jewelery"
+  },
+
+  {
+    "id": "10",
+    "name": "Saree with Contrast Border",
+    "price": 9990,
+    "imageUrl": "https://assets.ajio.com/medias/sys_master/root/20240906/HXgS/66da59d01d763220fac9915d/-1117Wx1400H-700378672-purple-MODEL.jpg",
+    "category": "Women's Clothing"
+  },
+
+  {
+    "id": "11",
+    "name": "Jewerly Set for Women",
+    "price": 3390,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTkt1eyhuygmZd2tiH9cormvFwGFAiZUIp66xakTSB0UIA1XWqVqC4Rus1C--z6KwTJyev0hQLtLuJ--WXtxVWhMmEhGvComqBnab87AAME&usqp=CAE",
+    "category": "Jewelery"
+  },
+
+  {
+    "id": "12",
+    "name": "Fjallraven - Foldsack",
+    "price": 560,
+    "imageUrl": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "category": "Men's Clothing"
+  },
+
+  {
+    "id": "13",
+    "name": "Duffle bag",
+    "price": 18999,
+    "imageUrl": "https://www.drakensberg.in/cdn/shop/files/DR00306-M-David-Havanna-Leder-Weekender-Reisetasche-Hauptbild-V1-459_1080x1080.jpg?v=1711616808",
+    "category": "Men's Clothing"
+  },
+
+  {
+    "id": "14",
+    "name": "Satchel Handbag Set",
+    "price": 10870,
+    "imageUrl": "https://i.pinimg.com/736x/3d/06/ca/3d06ca59e8420c5ff4d3b0da6f383250.jpg",
+    "category": "Women's Clothing"
+  },
+
+  {
+    "id": "15",
+    "name": "Handsome Metal Buckle",
+    "price": 319,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR4SNDbxOn-w64gF4MC_8E70PkkiybDoenY9Hvu0bcogxOH-j-F2XLJEhFirFJ9wZ0FuWyKdyc6zs0Yf9Cwt8_uQj9V_3R68l0fa95lCY4rL8mcGgQEG9MRow&usqp=CAE",
+    "category": "Men's Clothing"
+  },
+
+  {
+    "id": "16",
+    "name": "SanDisk SSD PLUS 1TB",
+    "price": 550,
+    "imageUrl": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+    "category": "Electronics"
+  },
+
+  {
+    "id": "17",
+    "name": "Samsung LED TV 55 inch",
+    "price": 65000,
+    "imageUrl": "https://p.rmjo.in/productSquare/xg07t5o8-500x500.webp",
+    "category": "Electronics"
+  },
+
+  {
+    "id": "18",
+    "name": "Traditional Gold Earring",
+    "price": 35950,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRywdLVaAhsvT1ei5QreVsNTwTDCqQ7wwykOHy3ACykLSOfQ6WVMBq_OLPbuXjiOnkrijGTdsmDw6epOaesD2yzZhNjSOHfbxvsXXGNngyjd_FdHMH7iqmKmBh6&usqp=CAE",
+    "category": "Jewelery"
+  },
+
+  {
+    "id": "19",
+    "name": "Rain Jacket Windbreaker",
+    "price": 3333,
+    "imageUrl": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+    "category": "Women's Clothing"
+  },
+
+  {
+    "id": "20",
+    "name": "Slim Fit T-Shirts",
+    "price": 1945,
+    "imageUrl": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+    "category": "Men's Clothing"
+  },
+
+  {
+    "id": "21",
+    "name": "External Hard Drive",
+    "price": 320,
+    "imageUrl": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+    "category": "Electronics"
+  },
+
+  {
+    "id": "22",
+    "name": "Men′s Shirt Casual",
+    "price": 800,
+    "imageUrl": "https://m.media-amazon.com/images/I/610XOxuJZ+L._AC_SX569_.jpg",
+    "category": "Men's Clothing"
+  },
+
+  {
+    "id": "23",
+    "name": "Silicon Power 256GB SSD",
+    "price": 460,
+    "imageUrl": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+    "category": "Electronics"
+  },
+
+  {
+    "id": "24",
+    "name": "Dragon Chain Bracelet",
+    "price": 695,
+    "imageUrl": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+    "category": "Jewelery"
+  },
+
+  {
+    "id": "25",
+    "name": "LG (81.28cm) AI Smart",
+    "price": 14900,
+    "imageUrl": "https://www.lg.com/content/dam/channel/wcms/in/images/tvs/32lq643bpta_atrq_eail_in_c/gallery/32LQ643bpta-vDZ-05.jpg",
+    "category": "Electronics"
+  },
+
+  {
+    "id": "26",
+    "name": "MBJ Women's Solid Top",
+    "price": 599,
+    "imageUrl": "https://m.media-amazon.com/images/I/71ac4zd4ueL._SY741_.jpg",
+    "category": "Women's Clothing"
+  },
+
+  {
+    "id": "27",
+    "name": "High Heels for Women",
+    "price": 2799,
+    "imageUrl": "https://atlas-content-cdn.pixelsquid.com/stock-images/women-shoes-stiletto-188lJo0-600.jpg",
+    "category": "Women's Clothing"
+  }
+]

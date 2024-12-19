@@ -1,0 +1,105 @@
+/* -----------------------------|NavBar|------------------------------ */
+/* ------------------------------------------------------------------- */
+
+.navbar-container {
+  width: 100%;
+  height: 4.5rem;
+  position: fixed;
+  top: 0px;
+  z-index: 1000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(229, 229, 231);
+  box-shadow: 0px 4px 12px rgb(152, 151, 151);
+}
+
+/* -----------------------------|NavBar Left Part|------------------------------ */
+/* ----------------------------------------------------------------------------- */
+
+.navbar-left-part {
+  margin-left: 2rem;
+  display: flex;
+  align-items: center;
+  font-family: "Cherry Cream Soda", system-ui;
+  cursor: pointer;
+}
+
+.navbar-left-part img {
+  width: 3rem;
+  height: 3rem;
+  margin-right: 1rem;
+  border-radius: 1.5rem;
+}
+
+.navbar-left-part p {
+  font-size: 1.1rem;
+  margin-left: 1rem;
+  font-family: "Nunito Sans", sans-serif;
+}
+
+/* -----------------------------|NavBar Right Part|------------------------------ */
+/* ------------------------------------------------------------------------------ */
+
+.navbar-right-part {
+  margin-right: 2rem;
+  display: flex;
+}
+
+.navbar-details-wrapper {
+  padding: 0.3rem 1.5rem;
+  display: flex;
+  align-items: center;
+  font-family: "Nunito Sans", sans-serif;
+  cursor: pointer;
+}
+
+.navbar-details-wrapper a {
+  all: unset;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar-details-wrapper img {
+  width: 1.5rem;
+  height: 1.5rem;
+  margin-right: 0.7rem;
+}
+
+.navbar-details-wrapper h4 {
+  position: relative;
+  display: inline-block;
+  border: none;
+  transition: all 0.3s ease-in-out;
+}
+
+.navbar-details-wrapper h4::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background-color: black;
+  transition: width 0.3s ease-in-out;
+}
+
+.navbar-details-wrapper h4:hover::after {
+  width: 100%;
+}
+
+.border-left-style {
+  border-left: 2px solid black;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.nav-link.active {
+  font-size: 1.2rem;
+  padding: 0.3rem 0.5rem;
+  border-radius: 0.5rem;
+  background: linear-gradient(90deg, rgb(152, 151, 151), rgb(229, 229, 231));
+}

@@ -1,0 +1,161 @@
+.cart-container {
+  min-height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 3rem;
+  padding-top: 6.5rem;
+  background-color: rgb(244, 246, 248);
+}
+
+/* ----------------------| Aside Section |---------------------- */
+/* ------------------------------------------------------------- */
+
+.product-total-container {
+  width: 13rem;
+  height: 11.3rem;
+  padding: 1.5rem 1.2rem;
+  margin-left: 4rem;
+  margin-top: 2rem;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(255, 255, 255);
+  border: 2px solid #d2d1d1;
+  font-family: "Nunito Sans", sans-serif;
+}
+
+.product-total-container h3 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.product-total-container button {
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  font-size: 1.05rem;
+  font-family: "Nunito Sans", sans-serif;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+  background-color: rgb(249, 201, 90);
+}
+
+.product-total-container button:hover {
+  font-weight: 700;
+  background-color: rgb(247, 176, 10);
+}
+
+/* ----------------------| Main Section |---------------------- */
+/* ------------------------------------------------------------ */
+
+.cart-list-container {
+  padding: 0.8rem 0rem 1rem 2.5rem;
+  width: 74rem;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.cart-item-card {
+  width: 16rem;
+  max-height: 26rem;
+  margin: 1rem 0.9rem;
+  padding: 0.7rem;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.5rem;
+  background-color: rgb(255, 255, 255);
+  border: 2px solid rgb(163, 162, 162);
+  box-shadow: 0px 4px 12px rgb(162, 157, 157);
+  transition: 0.3s;
+}
+
+.cart-item-card:hover {
+  box-shadow: 0px 8px 20px rgb(31, 31, 29);
+}
+
+.card-img-wrapper {
+  height: 17.5rem;
+  border-radius: 0.3rem;
+  margin-bottom: 0.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top-right-radius: 1rem;
+  border-top-left-radius: 1rem;
+  overflow: hidden;
+  background-color: white;
+}
+
+.card-img-wrapper img {
+  height: 100%;
+}
+
+.card-details-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 0.5rem;
+  font-family: "Nunito Sans", sans-serif;
+}
+
+.span-title-styling {
+  width: 100%;
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+.product-details-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.span-price-styling {
+  width: 100%;
+  font-size: 0.9rem;
+  padding-left: 0.3rem;
+}
+
+.product-quantity-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.product-quantity-container img {
+  width: 1.3rem;
+  margin: 0.2rem 0.5rem;
+  cursor: pointer;
+}
+
+.remove-cart-button {
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  font-size: 1.05rem;
+  font-family: "Nunito Sans", sans-serif;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+  background-color: #fc585b;
+}
+
+.remove-cart-button:hover {
+  font-weight: 700;
+  background-color: #e11f23;
+}
+
+.noDataFound-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  font-size: 1.8rem;
+  font-family: "Nunito Sans", sans-serif;
+  letter-spacing: 0.25rem;
+  font-weight: 700;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  margin-top: 1rem;
+}

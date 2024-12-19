@@ -1,0 +1,67 @@
+/* -----------------------------|Order Page|------------------------------ */
+/* ----------------------------------------------------------------------- */
+
+.order-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+  padding-bottom: 3rem;
+  padding-top: 6.5rem;
+  background-color: rgb(244, 246, 248);
+}
+
+.order-header-container {
+  margin-bottom: 1.3rem;
+  font-family: "Cherry Cream Soda", system-ui;
+}
+
+.order-details-container {
+  text-align: center;
+  font-family: "Nunito Sans", sans-serif;
+  margin-bottom: 2.3rem;
+}
+
+.order-details-container h2 {
+  margin-bottom: 0.8rem;
+}
+
+/* -----------------------------|Order table|------------------------------ */
+/* ------------------------------------------------------------------------ */
+
+table {
+  width: 45rem;
+  border-collapse: collapse;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 4px 12px rgb(180, 176, 176);
+}
+
+.title-container {
+  width: 20rem;
+}
+
+td,
+tr {
+  padding: 0.3rem;
+  border-bottom: 1px solid rgb(180, 176, 176);
+}
+
+th {
+  padding: 0.5rem;
+  font-size: 1.15rem;
+  border-bottom: 2px solid black;
+  background-color: rgb(180, 176, 176);
+}
+
+tr:hover {
+  font-weight: 700;
+  background-color: rgb(226, 222, 222);
+  cursor: pointer;
+}
+
+.total-price-container {
+  font-size: 1.1rem;
+  font-weight: 700;
+  background-color: rgb(249, 201, 90);
+}

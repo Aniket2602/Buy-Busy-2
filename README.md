@@ -64,9 +64,9 @@ The project uses React for building the user interface, Redux Toolkit for state 
 <h3 style="text-align: center">Home page</h3>
 <hr>
 
-![Home Page Screenshot](https://drive.google.com/file/d/1MjkwgEHdjv4AUggocnDtfRqSnul-Nskj/view?usp=drive_link)
+![Home Page Screenshot](https://github.com/Aniket2602/Buy-Busy-2/blob/master/screenshots/Home%20Page%201.png?raw=true)
 
-![Home Page Screenshot](https://drive.google.com/file/d/11eXb52kWI-XJMUWktzvEO8-4dqzDaKT5/view?usp=drive_link)
+![Home Page Screenshot](https://github.com/Aniket2602/Buy-Busy-2/blob/master/screenshots/Home%20Page%202.png?raw=true)
 
 <br>
 
@@ -74,7 +74,7 @@ The project uses React for building the user interface, Redux Toolkit for state 
 <h3 style="text-align: center">Sign-Up Page</h3>
 <hr>
 
-![SignUp Page Screenshot](https://drive.google.com/file/d/1i79dGOvjhLfUHVPfEfLLt878bnrWKTyu/view?usp=drive_link)
+![SignUp Page Screenshot](https://github.com/Aniket2602/Buy-Busy-2/blob/master/screenshots/SignUp%20Page.png?raw=true)
 
 <br>
 
@@ -82,7 +82,7 @@ The project uses React for building the user interface, Redux Toolkit for state 
 <h3 style="text-align: center">Sign-In Page</h3>
 <hr>
 
-![SignIn Page Screenshot](https://drive.google.com/file/d/1-F_1cedVJZlMWWNCRIb8LIoJC-SotIbb/view?usp=drive_link)
+![SignIn Page Screenshot](https://github.com/Aniket2602/Buy-Busy-2/blob/master/screenshots/SignIn%20Page.png?raw=true)
 
 <br>
 
@@ -90,7 +90,7 @@ The project uses React for building the user interface, Redux Toolkit for state 
 <h3 style="text-align: center">Cart Page</h3>
 <hr>
 
-![Cart Page Screenshot](https://drive.google.com/file/d/1e0DLQ-C7PhW1Y_nlFjwDtC29F_ymUA9Y/view?usp=drive_link)
+![Cart Page Screenshot](https://github.com/Aniket2602/Buy-Busy-2/blob/master/screenshots/Cart%20Page.png?raw=true)
 
 <br>
 
@@ -98,7 +98,7 @@ The project uses React for building the user interface, Redux Toolkit for state 
 <h3 style="text-align: center">Order Page</h3>
 <hr>
 
-![Order Page Screenshot](https://drive.google.com/file/d/1ZFQ6MoTxAZLXVe8NW5Vu51nThwWcnqpp/view?usp=drive_link)
+![Order Page Screenshot](https://github.com/Aniket2602/Buy-Busy-2/blob/master/screenshots/Order%20Page.png?raw=true)
 
 <br>
 
